@@ -1,2 +1,2 @@
-# jeklly
+# jekyll
 Resourse for Jekyll
